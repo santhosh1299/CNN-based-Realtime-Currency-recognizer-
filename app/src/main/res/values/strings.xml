@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency Recognizer</string>
+    <string name="press">press</string>
+    <string name="select">select</string>
+    <string name="Camera" />
+    <string name="todo">TODO</string>
+    <string name="send">Send</string>
+</resources>
